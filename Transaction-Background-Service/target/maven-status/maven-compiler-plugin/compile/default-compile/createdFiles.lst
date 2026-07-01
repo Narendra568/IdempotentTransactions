@@ -1,0 +1,15 @@
+com\example\transactionservice\dto\TransactionRequest.class
+com\example\transactionservice\service\TransactionService.class
+com\example\transactionservice\TransactionServiceApplication.class
+com\example\transactionservice\exception\DuplicateTransactionException.class
+com\example\transactionservice\exception\TransactionNotFoundException.class
+com\example\transactionservice\controller\TransactionController.class
+com\example\transactionservice\processor\TransactionProcessor.class
+com\example\transactionservice\exception\IdempotencyViolationException.class
+com\example\transactionservice\repository\TransactionRepository.class
+com\example\transactionservice\dto\TransactionResponse.class
+com\example\transactionservice\dto\ProcessingSummary.class
+com\example\transactionservice\model\TransactionStatus.class
+com\example\transactionservice\config\AppConfig.class
+com\example\transactionservice\visibility\MetricsFacade.class
+com\example\transactionservice\model\Transaction.class
